@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Salut, je suis Amine EL KHATYB !
+Amine EL KHATYB !
 
 ### 🚀 Développeur Full Stack | MERN Stack & Laravel | Scrum/Agile | UI/UX Design
 
@@ -45,8 +45,8 @@ J'apprécie relever des défis techniques en concevant des solutions web utiles,
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmineElkhatyb&show_icons=true&theme=tokyonight" alt="Amine's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineElkhatyb&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElkhatybDev&show_icons=true&theme=tokyonight" alt="ElkhatybDev's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElkhatybDev&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
