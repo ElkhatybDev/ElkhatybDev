@@ -45,7 +45,7 @@ J'apprécie relever des défis techniques en concevant des solutions web utiles,
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElkhatybDev&show_icons=true&theme=tokyonight" alt="ElkhatybDev's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElkhatybDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="ElkhatybDev's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElkhatybDev&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
