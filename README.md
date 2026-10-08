@@ -53,4 +53,4 @@ J'apprécie relever des défis techniques en concevant des solutions web utiles,
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/amine-el-khatyb)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-el-khatyb)
